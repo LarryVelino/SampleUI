@@ -5,3 +5,5 @@ BE/Akoya.Test.BE/Akoya.Test.BE/bin/
 BE/Akoya.Test.BE/Akoya.Test.BE/obj/
 BE/Akoya.Test.BE/Akoya.Test.Domain/bin/
 BE/Akoya.Test.BE/Akoya.Test.Domain/obj/
+test-ui/node_modules
+test-ui/.angular/
