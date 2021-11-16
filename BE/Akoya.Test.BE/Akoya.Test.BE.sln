@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akoya.Test.BE", "Akoya.Test.BE\Akoya.Test.BE.csproj", "{22EE1CA0-AA2A-4CDC-8863-6BAB25ABFEC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akoya.Test.Domain", "Akoya.Test.Domain\Akoya.Test.Domain.csproj", "{12111B69-8D10-40F6-8A48-362DE62FB625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22EE1CA0-AA2A-4CDC-8863-6BAB25ABFEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22EE1CA0-AA2A-4CDC-8863-6BAB25ABFEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22EE1CA0-AA2A-4CDC-8863-6BAB25ABFEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22EE1CA0-AA2A-4CDC-8863-6BAB25ABFEC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12111B69-8D10-40F6-8A48-362DE62FB625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12111B69-8D10-40F6-8A48-362DE62FB625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12111B69-8D10-40F6-8A48-362DE62FB625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12111B69-8D10-40F6-8A48-362DE62FB625}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86FD191A-7401-4045-AFD1-58D6AB132056}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+*.suo
+*.v2
+BE/Akoya.Test.BE/.vs/Akoya.Test.BE/v16/TestStore/
+BE/Akoya.Test.BE/Akoya.Test.BE/bin/
+BE/Akoya.Test.BE/Akoya.Test.BE/obj/
+BE/Akoya.Test.BE/Akoya.Test.Domain/bin/
+BE/Akoya.Test.BE/Akoya.Test.Domain/obj/
